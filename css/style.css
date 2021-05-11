@@ -5,7 +5,22 @@
     
     text-align: center;
     line-height: 200px;
+}
+ .box-nested{
+    background-color: #f07f80;
+    border: 1px solid white;
+    
+    height: 190px;
+    margin-top: 5px;
+    
+   
     
     
+}
+.left{
+    margin-left: 5px;
 
+}
+.right{
+    margin-right: 5px;
 }
